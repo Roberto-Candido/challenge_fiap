@@ -1,0 +1,83 @@
+2025-05-01 15:39:49,416 [INFO] Modelo treinado com Regress�o Linear
+2025-05-01 15:39:49,430 [INFO] Modelo salvo em medical_costs_app/saved_models/regress�o_linear.pkl
+2025-05-01 15:39:49,435 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 15:42:18,948 [INFO] Modelo treinado com �rvore de Decis�o
+2025-05-01 15:42:18,971 [INFO] Modelo salvo em medical_costs_app/saved_models/�rvore_de_decis�o.pkl
+2025-05-01 15:42:18,973 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 15:48:32,377 [INFO] Modelo treinado com Regress�o Linear
+2025-05-01 15:48:32,385 [INFO] Modelo salvo em medical_costs_app/saved_models/regress�o_linear.pkl
+2025-05-01 15:48:32,387 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 15:50:44,217 [INFO] Modelo treinado com Regress�o Linear
+2025-05-01 15:50:44,226 [INFO] Modelo salvo em medical_costs_app/saved_models/regress�o_linear.pkl
+2025-05-01 15:50:44,228 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:03:30,302 [INFO] Modelo treinado com Regress�o Linear
+2025-05-01 16:03:30,309 [INFO] Modelo salvo em medical_costs_app/saved_models/regress�o_linear.pkl
+2025-05-01 16:03:30,312 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:05:29,042 [INFO] Modelo treinado com Regress�o Linear
+2025-05-01 16:05:29,051 [INFO] Modelo salvo em medical_costs_app/saved_models/regress�o_linear.pkl
+2025-05-01 16:05:29,054 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:05:49,307 [INFO] Modelo treinado com �rvore de Decis�o
+2025-05-01 16:05:49,331 [INFO] Modelo salvo em medical_costs_app/saved_models/�rvore_de_decis�o.pkl
+2025-05-01 16:05:49,334 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:17:06,058 [INFO] Modelo treinado com Regressão Linear
+2025-05-01 16:17:06,064 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-01 16:17:06,065 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:18:40,816 [INFO] Modelo treinado com Regressão Linear
+2025-05-01 16:18:40,824 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-01 16:18:40,824 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:20:43,021 [INFO] Modelo treinado com Regressão Linear
+2025-05-01 16:20:43,028 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-01 16:20:43,028 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:20:43,058 [ERROR] Erro ao salvar no MongoDB: Invalid document {'modelo': 'Regressão Linear', 'metrica_r2': 0.844421682464854, 'metrica_mae': 1644.2733678162076, 'metrica_mse': 4272845.185685557, 'pvalues': {'const': 0.07541270877745829, 'idade': 1.450419134648655e-15, 'gênero': 0.060048954886876844, 'imc': 0.03019504755014936, 'filhos': 6.131721652662565e-06, 'fumante': 4.512399375950225e-74, 'região': 0.18990370323904826}, 'intervalos_confianca': {0: {'const': -182.1364816905152, 'idade': 70.6606392287161, 'gênero': -1146.7606682130413, 'imc': 6.883639915089361, 'filhos': 238.78177343594663, 'fumante': 9489.580262660567, 'região': -67.82477483017922}, 1: {'const': 3697.958585315032, 'idade': 110.94759318175451, 'gênero': 24.03598733197532, 'imc': 134.9994114746624, 'filhos': 586.9707758717145, 'fumante': 10642.298716658135, 'região': 338.9094706943681}}, 'arquivo_modelo': 'medical_costs_app/saved_models/regressão_linear.pkl', 'arquivo_resultado': 'medical_costs_app/results/predictions.csv', 'data_execucao': '2025-05-01T16:20:43.037011', '_id': ObjectId('6813c98bd67e55ad78b540fb')} | documents must have only string keys, key was 0
+2025-05-01 16:22:19,518 [INFO] Modelo treinado com Regressão Linear
+2025-05-01 16:22:19,524 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-01 16:22:19,524 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:22:19,532 [ERROR] Erro ao salvar no MongoDB: Invalid document {'modelo': 'Regressão Linear', 'metrica_r2': 0.844421682464854, 'metrica_mae': 1644.2733678162076, 'metrica_mse': 4272845.185685557, 'pvalues': {'const': 0.07541270877745829, 'idade': 1.450419134648655e-15, 'gênero': 0.060048954886876844, 'imc': 0.03019504755014936, 'filhos': 6.131721652662565e-06, 'fumante': 4.512399375950225e-74, 'região': 0.18990370323904826}, 'intervalos_confianca': {0: {'const': -182.1364816905152, 'idade': 70.6606392287161, 'gênero': -1146.7606682130413, 'imc': 6.883639915089361, 'filhos': 238.78177343594663, 'fumante': 9489.580262660567, 'região': -67.82477483017922}, 1: {'const': 3697.958585315032, 'idade': 110.94759318175451, 'gênero': 24.03598733197532, 'imc': 134.9994114746624, 'filhos': 586.9707758717145, 'fumante': 10642.298716658135, 'região': 338.9094706943681}}, 'arquivo_modelo': 'medical_costs_app/saved_models/regressão_linear.pkl', 'arquivo_resultado': 'medical_costs_app/results/predictions.csv', 'data_execucao': '2025-05-01T16:22:19.528965', '_id': ObjectId('6813c9eb3413065d65a1a736')} | documents must have only string keys, key was 0
+2025-05-01 16:26:14,313 [INFO] Modelo treinado com Regressão Linear
+2025-05-01 16:26:14,320 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-01 16:26:14,320 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-01 16:26:14,350 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:24:18,441 [INFO] Modelo treinado com Regressão Linear
+2025-05-12 20:24:18,447 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-12 20:24:18,448 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:24:18,478 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:32:31,342 [INFO] Modelo treinado com Regressão Linear
+2025-05-12 20:32:31,349 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-12 20:32:31,349 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:32:31,357 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:32:51,121 [INFO] Modelo treinado com Árvore de Decisão
+2025-05-12 20:32:51,141 [INFO] Modelo salvo em medical_costs_app/saved_models/árvore_de_decisão.pkl
+2025-05-12 20:32:51,141 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:32:51,146 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:45:53,484 [INFO] Modelo treinado com Regressão Linear
+2025-05-12 20:45:53,491 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-12 20:45:53,491 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:45:53,499 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:46:01,270 [INFO] Modelo treinado com Árvore de Decisão
+2025-05-12 20:46:01,289 [INFO] Modelo salvo em medical_costs_app/saved_models/árvore_de_decisão.pkl
+2025-05-12 20:46:01,289 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:46:01,295 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:46:22,364 [INFO] Modelo treinado com Árvore de Decisão
+2025-05-12 20:46:22,383 [INFO] Modelo salvo em medical_costs_app/saved_models/árvore_de_decisão.pkl
+2025-05-12 20:46:22,383 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:46:22,388 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:48:24,272 [INFO] Modelo treinado com Árvore de Decisão
+2025-05-12 20:48:24,291 [INFO] Modelo salvo em medical_costs_app/saved_models/árvore_de_decisão.pkl
+2025-05-12 20:48:24,291 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:48:24,297 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:57:27,200 [INFO] Modelo treinado com Regressão Linear
+2025-05-12 20:57:27,205 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-12 20:57:27,206 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:57:27,217 [INFO] Relatório salvo no MongoDB.
+2025-05-12 20:57:51,072 [INFO] Modelo treinado com Árvore de Decisão
+2025-05-12 20:57:51,092 [INFO] Modelo salvo em medical_costs_app/saved_models/árvore_de_decisão.pkl
+2025-05-12 20:57:51,092 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-12 20:57:51,097 [INFO] Relatório salvo no MongoDB.
+2025-05-26 14:27:51,812 [INFO] Modelo treinado com Regressão Linear
+2025-05-26 14:27:51,817 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-26 14:27:51,817 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-26 14:27:51,926 [INFO] Relatório salvo no MongoDB.
+2025-05-26 14:31:48,232 [INFO] Modelo treinado com Regressão Linear
+2025-05-26 14:31:48,236 [INFO] Modelo salvo em medical_costs_app/saved_models/regressão_linear.pkl
+2025-05-26 14:31:48,236 [INFO] Resultados salvos em medical_costs_app/results/predictions.csv
+2025-05-26 14:31:48,250 [INFO] Relatório salvo no MongoDB.

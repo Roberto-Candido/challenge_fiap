@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+pandas
+plotly
+joblib
+statsmodels
+pymongo
+pyyaml
+
