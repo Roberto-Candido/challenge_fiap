@@ -7,6 +7,8 @@ Aplicativo interativo com Streamlit para prever e analisar os custos médicos de
 
 ## Membro - José Roberto Cândido da Silva RM - 363845
 
+## Link do video - https://www.youtube.com/watch?v=JLMFWXGjS9I
+
 ## ✅ Funcionalidades
 
 - Upload de arquivos CSV com dados de pacientes
